@@ -1,0 +1,56 @@
+{  
+    "student" : [
+        {
+        "name" : "Mahdi",
+        "class"  : "HSC",
+        "location" : "Narayanganj"
+        },
+        {
+            "name" : "Jahid",
+            "class"  : "SSC",
+            "location" : "Dhaka"
+        },
+        {
+            "name" : "Azmin",
+            "class"  : "SSC",
+            "location" : "Banani"
+        },
+        {
+            "name" : "Rafiq",
+            "class"  : "SSc",
+            "location" : "Mirpur"
+        },
+        {
+            "name" : "Nahid",
+            "class"  : "SSC",
+            "location" : "Dhaka"
+        }
+    ],
+    "teacher" : [
+        {
+        "name" : "Mahdi",
+        "class"  : "HSC",
+        "location" : "Narayanganj"
+        },
+        {
+            "name" : "Jahid",
+            "class"  : "SSC",
+            "location" : "Dhaka"
+        },
+        {
+            "name" : "Azmin",
+            "class"  : "SSC",
+            "location" : "Banani"
+        },
+        {
+            "name" : "Rafiq",
+            "class"  : "SSc",
+            "location" : "Mirpur"
+        },
+        {
+            "name" : "Nahid",
+            "class"  : "SSC",
+            "location" : "Dhaka"
+        }
+    ] 
+}
